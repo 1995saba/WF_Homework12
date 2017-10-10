@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2017\Projects\Homework12\Homework12\bin\Debug\Homework12.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\Homework12\Homework12\bin\Debug\Homework12.exe
+c:\users\hp\documents\visual studio 2017\Projects\Homework12\Homework12\bin\Debug\Homework12.pdb
+c:\users\hp\documents\visual studio 2017\Projects\Homework12\Homework12\obj\Debug\Homework12.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\Homework12\Homework12\obj\Debug\Homework12.MenuItemsAddingForm.resources
+c:\users\hp\documents\visual studio 2017\Projects\Homework12\Homework12\obj\Debug\Homework12.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\Homework12\Homework12\obj\Debug\Homework12.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\Homework12\Homework12\obj\Debug\Homework12.exe
+c:\users\hp\documents\visual studio 2017\Projects\Homework12\Homework12\obj\Debug\Homework12.pdb
